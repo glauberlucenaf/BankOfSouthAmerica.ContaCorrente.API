@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BankOfSouthAmerica.ContaCorrente.API.props" />
+</Project>

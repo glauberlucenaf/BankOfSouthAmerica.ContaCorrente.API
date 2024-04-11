@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mV4nD249bNnDAJqX6kVYp4O6kkWteKNDIuTKxzrireU=",
+  "Source": "BankOfSouthAmerica.ContaCorrente.API",
+  "BasePath": "_content/BankOfSouthAmerica.ContaCorrente.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

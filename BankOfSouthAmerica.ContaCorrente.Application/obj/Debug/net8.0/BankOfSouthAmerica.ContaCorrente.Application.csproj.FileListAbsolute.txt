@@ -1,0 +1,15 @@
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.AssemblyInfoInputs.cache
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.AssemblyInfo.cs
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.csproj.CoreCompileInputs.cache
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\bin\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.deps.json
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\bin\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.dll
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\bin\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.pdb
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\bin\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Domain.dll
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\bin\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Domain.pdb
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.csproj.AssemblyReference.cache
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSo.D375BD7E.Up2Date
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.dll
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\refint\BankOfSouthAmerica.ContaCorrente.Application.dll
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\BankOfSouthAmerica.ContaCorrente.Application.pdb
+C:\Users\glaub\Documents\Projetos\BankOfSouthAmerica\API.BankOfSouthAmerica.ContaCorrente\BankOfSouthAmerica.ContaCorrente.Application\obj\Debug\net8.0\ref\BankOfSouthAmerica.ContaCorrente.Application.dll
